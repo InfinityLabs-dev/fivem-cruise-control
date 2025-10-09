@@ -20,15 +20,12 @@
      'config.lua',
  }
  
- server_scripts {
-     'server/main.lua',
- }
- 
  client_scripts {
-     'client/main.lua',
+     'main.lua',
  }
  
  dependencies {
      'qb-core'
+
  }
 dependency '/assetpacks'
