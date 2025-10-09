@@ -4,8 +4,9 @@ AUTHOR: Infinity Labs
 Original Date: July 2024
 Version: 1.0.0
 
-VIDEO:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MBSwIDd1u10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/MBSwIDd1u10/maxresdefault.jpg)](https://youtu.be/MBSwIDd1u10)
+
+### [Watch this video on YouTube](https://youtu.be/MBSwIDd1u10)
 
 DESCRIPTION:
 I  hate the default cruise control feature that comes with most HUD scripts where you hit anything and it turns off 
