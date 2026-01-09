@@ -1,5 +1,3 @@
-# fivem-cruise-control
-
 AUTHOR: Infinity Labs
 Original Date: July 2024
 Version: 1.0.0
